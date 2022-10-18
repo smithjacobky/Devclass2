@@ -1,6 +1,9 @@
 . 
 
 second
+<<<<<<< HEAD
 third 
 does this work
 try again
+=======
+>>>>>>> developer
